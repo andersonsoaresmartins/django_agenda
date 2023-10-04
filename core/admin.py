@@ -8,4 +8,4 @@ class EventoAdmin(admin.ModelAdmin):
 
 # Register your models here.
 admin.site.register(Evento, EventoAdmin)
-
+  
